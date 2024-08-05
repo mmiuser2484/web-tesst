@@ -2,12 +2,12 @@ id,parentId,name,lastName
 100,,DOES THE CHART HAVE DAILT PROFIT TARGET,King
 101,100,no,Kochhar
 102,100,YES,De Haan
-103,100,Nottt,Hunold
-104,100,LEAVE THE CHART,aaa
-105,100,TRADE PICKED MARK (R) AND (S),Austin
-106,100,MARK RANGE,Pataballa
-107,100,TRACE STRUCTURE,Lorentz
-108,100,IS THE (S) IS 2 CANDLE ONLY,Greenberg
+103,102,Nottt,Hunold
+104,103,LEAVE THE CHART,aaa
+105,103,TRADE PICKED MARK (R) AND (S),Austin
+106,103,MARK RANGE,Pataballa
+107,103,TRACE STRUCTURE,Lorentz
+108,101,IS THE (S) IS 2 CANDLE ONLY,Greenberg
 109,108,S NO,Faviet
 110,109,S YES,Chen
 111,108,WRONG (S),Sciarra
@@ -87,3 +87,22 @@ id,parentId,name,lastName
 185,121,WAIT STAY CALM,Bull
 186,121,WAIT.....,Dellinger
 187,121,WAIT...READY,Cabrio
+,122,,
+,122,,
+,122,,
+,122,,
+,123,,
+,123,,
+,123,,
+,123,,
+,124,,
+,124,,
+,124,,
+,124,,
+,101,,
+,100,,
+,201,,
+,101,,
+,101,,
+,101,,
+,205,,
